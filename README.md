@@ -38,15 +38,18 @@
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
-## OUTPUT:
+## INPUT:
 ![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
 ![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![WhatsApp Image 2023-11-28 at 23 42 52_df62ff57](https://github.com/aravindkumar23004721/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148962674/db19539b-47a0-4691-bff1-678a1f2075c7)
+![WhatsApp Image 2023-11-28 at 23 42 52_f4a6e4ad](https://github.com/aravindkumar23004721/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148962674/69e6cc08-6297-4e68-a807-bd4450cc8e02)
+![WhatsApp Image 2023-11-28 at 23 42 53_a3213848](https://github.com/aravindkumar23004721/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148962674/55c0da9e-b973-4012-bfb5-e17b1c6b4161)
 
-### Name:
-### Register Number:
+### Name:Aravind kumar sasikumar samundi
+### Register Number:23004721
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
